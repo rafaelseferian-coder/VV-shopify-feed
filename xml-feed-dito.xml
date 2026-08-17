@@ -1,4 +1,10 @@
-<produtos><produto>
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Via Veneto</title>
+<link>https://www.viaveneto.com.br</link>
+<description>Catálogo de Produtos</description>
+<item>
   <g:id>CESFGRV25O04_12_1</g:id>
 <g:item_group_id>9116624912641 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Redonda Retilínea - Areia</g:title>
@@ -7,7 +13,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Redonda Retilínea - Areia</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV25O04_1069_1</g:id>
 <g:item_group_id>9116624847105 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Redonda Retilínea - Cinza Mescla</g:title>
@@ -16,7 +22,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Redonda Retilínea - Cinza Mescla</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV25O04_07_1</g:id>
 <g:item_group_id>9116624781569 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Redonda Retilínea - Marinho</g:title>
@@ -25,7 +31,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Redonda Retilínea - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV25O01_28_1</g:id>
 <g:item_group_id>9092778656001 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões - Cinza</g:title>
@@ -34,7 +40,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV25O01_12_1</g:id>
 <g:item_group_id>9092778623233 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões - Areia</g:title>
@@ -43,7 +49,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões - Areia</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV25O01_17_1</g:id>
 <g:item_group_id>9092778590465 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões - Preto</g:title>
@@ -52,7 +58,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV25O01_07_1</g:id>
 <g:item_group_id>9092778524929 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões - Marinho</g:title>
@@ -61,7 +67,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI24U03_18_1</g:id>
 <g:item_group_id>9092206657793 </g:item_group_id>
   <g:title>Tênis Malha Solado Esportivo - Bege</g:title>
@@ -70,7 +76,7 @@
   <g:price>899.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Malha Solado Esportivo - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>SNSBAMV20U04_07_1</g:id>
 <g:item_group_id>9092206395649 </g:item_group_id>
   <g:title>Sapatênis Amarrar Camurça Com Trisse - Marinho</g:title>
@@ -79,7 +85,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Sapatênis Amarrar Camurça Com Trisse - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAYAA21O01_07_1</g:id>
 <g:item_group_id>9092204396801 </g:item_group_id>
   <g:title>Tênis Yatch Trisse - Marinho</g:title>
@@ -88,7 +94,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Yatch Trisse - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI24U02_01_1</g:id>
 <g:item_group_id>9092204200193 </g:item_group_id>
   <g:title>Tênis Couro Classic Bicolor - Branco</g:title>
@@ -97,7 +103,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Couro Classic Bicolor - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFZPI25O01_17_1</g:id>
 <g:item_group_id>9092203872513 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Preto</g:title>
@@ -106,7 +112,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV23O04_01_1</g:id>
 <g:item_group_id>9092203839745 </g:item_group_id>
   <g:title>Shorts Liso Retro Com Vies - Branco</g:title>
@@ -115,7 +121,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Retro Com Vies - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFZPI25O01_11_1</g:id>
 <g:item_group_id>9092203774209 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Grafite</g:title>
@@ -124,7 +130,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFZPI25O01_07_1</g:id>
 <g:item_group_id>9092203741441 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Marinho</g:title>
@@ -133,7 +139,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFVDI25O01_33_1</g:id>
 <g:item_group_id>9092203708673 </g:item_group_id>
   <g:title>Polo Manga Curta Vista Dupla Jersey Pima - Verde Escuro</g:title>
@@ -142,7 +148,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Vista Dupla Jersey Pima - Verde Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAELI24U02_17_1</g:id>
 <g:item_group_id>9092203118849 </g:item_group_id>
   <g:title>Tênis Malha Cano Alto Extralight - Preto</g:title>
@@ -151,7 +157,7 @@
   <g:price>1299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Malha Cano Alto Extralight - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV24O02_17_1</g:id>
 <g:item_group_id>9092203053313 </g:item_group_id>
   <g:title>Shorts Liso Bolso Grande - Preto</g:title>
@@ -160,7 +166,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Bolso Grande - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI22U01_17_1</g:id>
 <g:item_group_id>9092201316609 </g:item_group_id>
   <g:title>Tênis Nylon Matelasse - Preto</g:title>
@@ -169,7 +175,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Nylon Matelasse - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SPSCAMI22C03_1055_1</g:id>
 <g:item_group_id>9092201218305 </g:item_group_id>
   <g:title>Sapato Amarrar Box Bico Ponto Luva - Café</g:title>
@@ -178,7 +184,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Sapato Amarrar Box Bico Ponto Luva - Café</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAYAI22U01_17_1</g:id>
 <g:item_group_id>9092200562945 </g:item_group_id>
   <g:title>Tênis Yacht Matelasse - Preto</g:title>
@@ -187,7 +193,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Yacht Matelasse - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESACAI21O01_17_1</g:id>
 <g:item_group_id>9092200431873 </g:item_group_id>
   <g:title>Tênis Casual de Malha - Preto</g:title>
@@ -196,7 +202,7 @@
   <g:price>899.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Casual de Malha - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV24O01_07_1</g:id>
 <g:item_group_id>9092200136961 </g:item_group_id>
   <g:title>Shorts Liso Bolso Falso - Marinho</g:title>
@@ -205,7 +211,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Bolso Falso - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O04_17_1</g:id>
 <g:item_group_id>9092199874817 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões - Preto</g:title>
@@ -214,7 +220,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAELI24U02_15_1</g:id>
 <g:item_group_id>9092199219457 </g:item_group_id>
   <g:title>Tênis Malha Cano Alto Extralight - Chumbo</g:title>
@@ -223,7 +229,7 @@
   <g:price>1299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Malha Cano Alto Extralight - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV23O02_34_1</g:id>
 <g:item_group_id>9092198596865 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 3 Botões - Azul Medio</g:title>
@@ -232,7 +238,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 3 Botões - Azul Medio</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O02_L3_1</g:id>
 <g:item_group_id>9092198531329 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Azul Escuro</g:title>
@@ -241,7 +247,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>SPSCAMI22C02_17_1</g:id>
 <g:item_group_id>9092196434177 </g:item_group_id>
   <g:title>Sapato Social Cano Gasper - Preto</g:title>
@@ -250,7 +256,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Sapato Social Cano Gasper - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMV22U01_17_1</g:id>
 <g:item_group_id>9092196401409 </g:item_group_id>
   <g:title>Tênis Nylon Pesponto - Preto</g:title>
@@ -259,7 +265,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Nylon Pesponto - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV24O02_01_1</g:id>
 <g:item_group_id>9092196172033 </g:item_group_id>
   <g:title>Shorts Liso Bolso Grande - Branco</g:title>
@@ -268,7 +274,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Bolso Grande - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFSBI25O01_17_1</g:id>
 <g:item_group_id>9092195844353 </g:item_group_id>
   <g:title>Polo Manga Curta Sem Botão Jersey Pima - Preto</g:title>
@@ -277,7 +283,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Sem Botão Jersey Pima - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI25O01_01_1</g:id>
 <g:item_group_id>9092195713281 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Branco</g:title>
@@ -286,7 +292,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESACAI21O01_01_1</g:id>
 <g:item_group_id>9092195549441 </g:item_group_id>
   <g:title>Tênis Casual de Malha - Branco</g:title>
@@ -295,7 +301,7 @@
   <g:price>899.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Casual de Malha - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI22U02_07_1</g:id>
 <g:item_group_id>9092195385601 </g:item_group_id>
   <g:title>Tênis Amarrar Couro Cobra - Marinho</g:title>
@@ -304,7 +310,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Amarrar Couro Cobra - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFSBI25O01_07_1</g:id>
 <g:item_group_id>9092194894081 </g:item_group_id>
   <g:title>Polo Manga Curta Sem Botão Jersey Pima - Marinho</g:title>
@@ -313,7 +319,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Sem Botão Jersey Pima - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV23O02_87_1</g:id>
 <g:item_group_id>9092194763009 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 3 Botões - Cinza Claro</g:title>
@@ -322,7 +328,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 3 Botões - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI24O01_17_1</g:id>
 <g:item_group_id>9092194369793 </g:item_group_id>
   <g:title>Polo Manga Longa Slim 3 Botoes Pima - Preto</g:title>
@@ -331,7 +337,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim 3 Botoes Pima - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFSBI25O01_28_1</g:id>
 <g:item_group_id>9092193550593 </g:item_group_id>
   <g:title>Polo Manga Curta Sem Botão Jersey Pima - Cinza</g:title>
@@ -340,7 +346,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Sem Botão Jersey Pima - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>SPSCAMI22C03_17_1</g:id>
 <g:item_group_id>9092192436481 </g:item_group_id>
   <g:title>Sapato Amarrar Box Bico Ponto Luva - Preto</g:title>
@@ -349,7 +355,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Sapato Amarrar Box Bico Ponto Luva - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV24O01_01_1</g:id>
 <g:item_group_id>9092192141569 </g:item_group_id>
   <g:title>Shorts Liso Bolso Falso - Branco</g:title>
@@ -358,7 +364,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Bolso Falso - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV23O04_07_1</g:id>
 <g:item_group_id>9092191977729 </g:item_group_id>
   <g:title>Shorts Liso Retro Com Vies - Marinho</g:title>
@@ -367,7 +373,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Retro Com Vies - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O02_89_1</g:id>
 <g:item_group_id>9092191682817 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Cinza Médio</g:title>
@@ -376,7 +382,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Cinza Médio</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI24O01_07_1</g:id>
 <g:item_group_id>9092191617281 </g:item_group_id>
   <g:title>Polo Manga Longa Slim 3 Botoes Pima - Marinho</g:title>
@@ -385,7 +391,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim 3 Botoes Pima - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>PLSFSFI22C03_1045_2</g:id>
 <g:item_group_id>9092191453441 </g:item_group_id>
   <g:title>Paletó Slim de Malha Liso Sem Forro Bolso Embutido - Marinho Noite</g:title>
@@ -394,7 +400,7 @@
   <g:price>2499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Paletó Slim de Malha Liso Sem Forro Bolso Embutido - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI24U02_07_1</g:id>
 <g:item_group_id>9092191387905 </g:item_group_id>
   <g:title>Tênis Couro Classic Bicolor - Marinho</g:title>
@@ -403,7 +409,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Couro Classic Bicolor - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI22U02_17_1</g:id>
 <g:item_group_id>9092191322369 </g:item_group_id>
   <g:title>Tênis Amarrar Couro Cobra - Preto</g:title>
@@ -412,7 +418,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Amarrar Couro Cobra - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI22U01_01_1</g:id>
 <g:item_group_id>9092191256833 </g:item_group_id>
   <g:title>Tênis Nylon Matelasse - Branco</g:title>
@@ -421,7 +427,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Nylon Matelasse - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV23O04_17_1</g:id>
 <g:item_group_id>9092191125761 </g:item_group_id>
   <g:title>Shorts Liso Retro Com Vies - Preto</g:title>
@@ -430,7 +436,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Retro Com Vies - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI25O01_28_1</g:id>
 <g:item_group_id>9092190634241 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Cinza</g:title>
@@ -439,7 +445,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI25O01_17_1</g:id>
 <g:item_group_id>9092190601473 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Preto</g:title>
@@ -448,7 +454,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>PLSFSFI24C01_17_1</g:id>
 <g:item_group_id>9092190470401 </g:item_group_id>
   <g:title>Paletó Sem Forro Slim Fit - Preto</g:title>
@@ -457,7 +463,7 @@
   <g:price>2499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Paletó Sem Forro Slim Fit - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O02_17_1</g:id>
 <g:item_group_id>9092190241025 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Preto</g:title>
@@ -466,7 +472,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O05_28_1</g:id>
 <g:item_group_id>9092190208257 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 5 Botões Gola Camisa - Cinza</g:title>
@@ -475,7 +481,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 5 Botões Gola Camisa - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOV25O01_16_1</g:id>
 <g:item_group_id>9092190109953 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Retilínea 3 Botões - Marrom</g:title>
@@ -484,7 +490,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Retilínea 3 Botões - Marrom</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLSFCNI22O01_18_1</g:id>
 <g:item_group_id>9092189749505 </g:item_group_id>
   <g:title>Malha Slim Canelada Com Bolsos - Bege Claro</g:title>
@@ -493,7 +499,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Slim Canelada Com Bolsos - Bege Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLRECBI25O02_17_1</g:id>
 <g:item_group_id>9092189683969 </g:item_group_id>
   <g:title>Malha Manga Longa Gola Aberta - Preto</g:title>
@@ -502,7 +508,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Manga Longa Gola Aberta - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV23O02_11_1</g:id>
 <g:item_group_id>9092189290753 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 3 Botões - Grafite</g:title>
@@ -511,7 +517,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 3 Botões - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O06_01_1</g:id>
 <g:item_group_id>9092189257985 </g:item_group_id>
   <g:title>Polo Manga Curta 5 Botões Jersey Pima - Branco</g:title>
@@ -520,7 +526,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta 5 Botões Jersey Pima - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O05_17_1</g:id>
 <g:item_group_id>9092189159681 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 5 Botões Gola Camisa -  Preto</g:title>
@@ -529,7 +535,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 5 Botões Gola Camisa -  Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O05_01_1</g:id>
 <g:item_group_id>9092189126913 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 5 Botões Gola Camisa - Branco</g:title>
@@ -538,7 +544,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 5 Botões Gola Camisa - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O04_34_1</g:id>
 <g:item_group_id>9092189061377 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões -  Azul Médio</g:title>
@@ -547,7 +553,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões -  Azul Médio</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O04_07_1</g:id>
 <g:item_group_id>9092189028609 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões - Marinho</g:title>
@@ -556,7 +562,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O04_01_1</g:id>
 <g:item_group_id>9092188963073 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões -  Branco</g:title>
@@ -565,7 +571,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões -  Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOV25O01_15_1</g:id>
 <g:item_group_id>9092188864769 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Retilínea 3 Botões - Chumbo</g:title>
@@ -574,7 +580,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Retilínea 3 Botões - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOV25O01_07_1</g:id>
 <g:item_group_id>9092188766465 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Retilínea 3 Botões - Marinho</g:title>
@@ -583,7 +589,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Retilínea 3 Botões - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI24U01_17_1</g:id>
 <g:item_group_id>9092188209409 </g:item_group_id>
   <g:title>Tênis Couro Recortes Nylon - Preto</g:title>
@@ -592,7 +598,7 @@
   <g:price>899.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Couro Recortes Nylon - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV24O02_07_1</g:id>
 <g:item_group_id>9092187980033 </g:item_group_id>
   <g:title>Shorts Liso Bolso Grande - Marinho</g:title>
@@ -601,7 +607,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Bolso Grande - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI25O01_07_1</g:id>
 <g:item_group_id>9092187488513 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Marinho</g:title>
@@ -610,7 +616,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Pima 5 Botões Gola Camisa - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLSFCBI22O01_07_1</g:id>
 <g:item_group_id>9092186964225 </g:item_group_id>
   <g:title>Malha Polo Slim Canelada - Marinho</g:title>
@@ -619,7 +625,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Polo Slim Canelada - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLREGXI25O01_07_1</g:id>
 <g:item_group_id>9092186898689 </g:item_group_id>
   <g:title>Malha Manga Longa Raglan Gola Xale - Marinho</g:title>
@@ -628,7 +634,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Manga Longa Raglan Gola Xale - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOV25O01_17_1</g:id>
 <g:item_group_id>9092186505473 </g:item_group_id>
   <g:title>Polo Manga Longa Slim Retilínea 3 Botões - Preto</g:title>
@@ -637,7 +643,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim Retilínea 3 Botões - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLRECBI23U01_28_1</g:id>
 <g:item_group_id>9092186276097 </g:item_group_id>
   <g:title>Malha Com Botão Gola Polo - Cinza</g:title>
@@ -646,7 +652,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Com Botão Gola Polo - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>MIREESV19C01_11_1</g:id>
 <g:item_group_id>9092186177793 </g:item_group_id>
   <g:title>Meia Social - Grafite</g:title>
@@ -655,7 +661,7 @@
   <g:price>99.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>MCSCGVI22C01_1055_1</g:id>
 <g:item_group_id>9092186046721 </g:item_group_id>
   <g:title>Mocassim Gravata Box - Cafe</g:title>
@@ -664,7 +670,7 @@
   <g:price>1299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mocassim Gravata Box - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>GRETTRV23C01_89_1</g:id>
 <g:item_group_id>9092185719041 </g:item_group_id>
   <g:title>Gravata Seda - Cinza Medio</g:title>
@@ -673,7 +679,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Gravata Seda - Cinza Medio</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C08_31_1</g:id>
 <g:item_group_id>9092185194753 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Azul Claro</g:title>
@@ -682,7 +688,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Azul Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLRETCI21O01_17_1</g:id>
 <g:item_group_id>9092184899841 </g:item_group_id>
   <g:title>Malha Tricô Com Capuz e Bolso - Preto</g:title>
@@ -691,7 +697,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Tricô Com Capuz e Bolso - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>TESAAMI24U02_17_1</g:id>
 <g:item_group_id>9092184604929 </g:item_group_id>
   <g:title>Tênis Couro Classic Bicolor - Preto</g:title>
@@ -700,7 +706,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Tênis Couro Classic Bicolor - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFZPI25O01_01_1</g:id>
 <g:item_group_id>9092184506625 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Branco</g:title>
@@ -709,7 +715,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 1/2 Zíper Pima Tecnológica - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFVDI25O01_03_1</g:id>
 <g:item_group_id>9092184441089 </g:item_group_id>
   <g:title>Polo Manga Curta Vista Dupla Jersey Pima - Azul</g:title>
@@ -718,7 +724,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Vista Dupla Jersey Pima - Azul</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFVDI25O01_01_1</g:id>
 <g:item_group_id>9092184408321 </g:item_group_id>
   <g:title>Polo Manga Curta Vista Dupla Jersey Pima - Branco</g:title>
@@ -727,7 +733,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Vista Dupla Jersey Pima - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOV25O02_04_1</g:id>
 <g:item_group_id>9092184277249 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 3 Botões Retilínea - Verde</g:title>
@@ -736,7 +742,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 3 Botões Retilínea - Verde</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O06_33_1</g:id>
 <g:item_group_id>9092184244481 </g:item_group_id>
   <g:title>Polo Manga Curta 5 Botões Jersey Pima - Verde Escuro</g:title>
@@ -745,7 +751,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta 5 Botões Jersey Pima - Verde Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O06_17_1</g:id>
 <g:item_group_id>9092184178945 </g:item_group_id>
   <g:title>Polo Manga Curta 5 Botões Jersey Pima - Preto</g:title>
@@ -754,7 +760,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta 5 Botões Jersey Pima - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFBOI24O01_01_1</g:id>
 <g:item_group_id>9092184047873 </g:item_group_id>
   <g:title>Polo Manga Longa Slim 3 Botoes Pima - Branco</g:title>
@@ -763,7 +769,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim 3 Botoes Pima - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFZPI25O01_17_1</g:id>
 <g:item_group_id>9092183916801 </g:item_group_id>
   <g:title>Polo Manga Longa Slim 1/2 Zíper Pima Tecnológica - Preto</g:title>
@@ -772,7 +778,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim 1/2 Zíper Pima Tecnológica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFZPI25O01_11_1</g:id>
 <g:item_group_id>9092183556353 </g:item_group_id>
   <g:title>Polo Manga Longa Slim 1/2 Zíper Pima Tecnológica - Grafite</g:title>
@@ -781,7 +787,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim 1/2 Zíper Pima Tecnológica - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>PMSFZPI25O01_07_1</g:id>
 <g:item_group_id>9092183490817 </g:item_group_id>
   <g:title>Polo Manga Longa Slim 1/2 Zíper Pima Tecnológica - Marinho</g:title>
@@ -790,7 +796,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Longa Slim 1/2 Zíper Pima Tecnológica - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>PLSFSFI23C01_87_2</g:id>
 <g:item_group_id>9092183130369 </g:item_group_id>
   <g:title>Paletó Sem Forro Slim Super 120 Marzotto - Cinza Claro</g:title>
@@ -799,7 +805,7 @@
   <g:price>3999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Paletó Sem Forro Slim Super 120 Marzotto - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C08_11_1</g:id>
 <g:item_group_id>9092181885185 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Grafite</g:title>
@@ -808,7 +814,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFCMI23C01_31_1</g:id>
 <g:item_group_id>9092181655809 </g:item_group_id>
   <g:title>Camisa Manga Longa Pima - Azul Claro</g:title>
@@ -817,7 +823,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Pima - Azul Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLRETCI21O01_90_1</g:id>
 <g:item_group_id>9092181557505 </g:item_group_id>
   <g:title>Malha Tricô Com Capuz e Bolso - Bege Claro</g:title>
@@ -826,7 +832,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Tricô Com Capuz e Bolso - Bege Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>GRETTRV23C01_07_1</g:id>
 <g:item_group_id>9092181197057 </g:item_group_id>
   <g:title>Gravata Seda - Marinho</g:title>
@@ -835,7 +841,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Gravata Seda - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>GRETTRV23C01_17_1</g:id>
 <g:item_group_id>9092181131521 </g:item_group_id>
   <g:title>Gravata Seda - Preto</g:title>
@@ -844,7 +850,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Gravata Seda - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>SHRELIV24O01_17_1</g:id>
 <g:item_group_id>9092180902145 </g:item_group_id>
   <g:title>Shorts Liso Bolso Falso - Preto</g:title>
@@ -853,7 +859,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Shorts Liso Bolso Falso - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O05_07_1</g:id>
 <g:item_group_id>9092180574465 </g:item_group_id>
   <g:title>Polo Manga Curta Slim Pima 5 Botões Gola Camisa - Marinho</g:title>
@@ -862,7 +868,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim Pima 5 Botões Gola Camisa - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>POSFBOI25O02_07_1</g:id>
 <g:item_group_id>9092179853569 </g:item_group_id>
   <g:title>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Marinho</g:title>
@@ -871,7 +877,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Polo Manga Curta Slim 2 Botões Pima Sanforizada - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>MIRELIV19C01_17_1</g:id>
 <g:item_group_id>9092179624193 </g:item_group_id>
   <g:title>Meia Social Classica - Preto</g:title>
@@ -880,7 +886,7 @@
   <g:price>99.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social Classica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>GRETTRV23C02_1045_1</g:id>
 <g:item_group_id>9092179427585 </g:item_group_id>
   <g:title>Gravata Seda Panamino - Marinho Noite</g:title>
@@ -889,7 +895,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Gravata Seda Panamino - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>GRETTRV23C01_1045_1</g:id>
 <g:item_group_id>9092179263745 </g:item_group_id>
   <g:title>Gravata Seda - Marinho Noite</g:title>
@@ -898,7 +904,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Gravata Seda - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CTRECZI23U01_90_1</g:id>
 <g:item_group_id>9092179230977 </g:item_group_id>
   <g:title>Colete Malha Com Capuz - Bege Claro</g:title>
@@ -907,7 +913,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Colete Malha Com Capuz - Bege Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MCSAGVI24U01_1075_1</g:id>
 <g:item_group_id>9092178870529 </g:item_group_id>
   <g:title>Mocassim Gravata Camurça Solado Borracha - Bege Escuro</g:title>
@@ -916,7 +922,7 @@
   <g:price>1299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mocassim Gravata Camurça Solado Borracha - Bege Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O02_07_1</g:id>
 <g:item_group_id>9092178149633 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha Jersey Pima - Marinho</g:title>
@@ -925,7 +931,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha Jersey Pima - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C09_1045_1</g:id>
 <g:item_group_id>9092177789185 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Marinho Noite</g:title>
@@ -934,7 +940,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C07_87_1</g:id>
 <g:item_group_id>9092177690881 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Cinza Claro</g:title>
@@ -943,7 +949,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLREGXSIO01_07_1</g:id>
 <g:item_group_id>9092177625345 </g:item_group_id>
   <g:title>Malha Manga Longa Trançada Gola Xale Com Bolsos - Marinho</g:title>
@@ -952,7 +958,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Manga Longa Trançada Gola Xale Com Bolsos - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLREGXI25O01_17_1</g:id>
 <g:item_group_id>9092177527041 </g:item_group_id>
   <g:title>Malha Manga Longa Raglan Gola Xale - Preto</g:title>
@@ -961,7 +967,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Manga Longa Raglan Gola Xale - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>MCSCGVI22C01_17_1</g:id>
 <g:item_group_id>9092177428737 </g:item_group_id>
   <g:title>Mocassim Gravata Box - Preto</g:title>
@@ -970,7 +976,7 @@
   <g:price>1299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mocassim Gravata Box - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CTSFCZV20U01_07_1</g:id>
 <g:item_group_id>9092176511233 </g:item_group_id>
   <g:title>Colete Slim Com Capuz - Marinho</g:title>
@@ -979,7 +985,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Colete Slim Com Capuz - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CTRECZI22U01_17_1</g:id>
 <g:item_group_id>9092176445697 </g:item_group_id>
   <g:title>Colete Com Capuz e Zíper - Preto</g:title>
@@ -988,7 +994,7 @@
   <g:price>1999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Colete Com Capuz e Zíper - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O04_28_1</g:id>
 <g:item_group_id>9092176249089 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha Gamuza Pima -  Cinza</g:title>
@@ -997,7 +1003,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha Gamuza Pima -  Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O04_03_1</g:id>
 <g:item_group_id>9092176216321 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha Gamuza Pima - Azul</g:title>
@@ -1006,7 +1012,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha Gamuza Pima - Azul</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O01_17_1</g:id>
 <g:item_group_id>9092176085249 </g:item_group_id>
   <g:title>Camisa Manga Longa Malha Jersey Pima - Preto</g:title>
@@ -1015,7 +1021,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Malha Jersey Pima - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C08_01_1</g:id>
 <g:item_group_id>9092175921409 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Branco</g:title>
@@ -1024,7 +1030,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C04_1045_1</g:id>
 <g:item_group_id>9092175855873 </g:item_group_id>
   <g:title>Camisa Manga Longa Algodão - Marinho Noite</g:title>
@@ -1033,7 +1039,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Algodão - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFCMI23C01_1045_1</g:id>
 <g:item_group_id>9092175659265 </g:item_group_id>
   <g:title>Camisa Manga Longa Pima - Marinho Noite</g:title>
@@ -1042,7 +1048,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Pima - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>JQSFJSI25U01_13_1</g:id>
 <g:item_group_id>9092175266049 </g:item_group_id>
   <g:title>Jaqueta Jeans Slim Botões Metálicos - Indigo</g:title>
@@ -1051,7 +1057,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Jaqueta Jeans Slim Botões Metálicos - Indigo</g:description>
-</produto><produto>
+</item><item>
   <g:id>GRLIBOV19C01_28_1</g:id>
 <g:item_group_id>9092174741761 </g:item_group_id>
   <g:title>Gravata Borboleta - Cinza</g:title>
@@ -1060,7 +1066,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Gravata Borboleta - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>HWSFETV23C01_01_1</g:id>
 <g:item_group_id>9092174708993 </g:item_group_id>
   <g:title>Homewear Slim - Branco</g:title>
@@ -1069,7 +1075,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Homewear Slim - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CTRECZI23U01_01_1</g:id>
 <g:item_group_id>9092174545153 </g:item_group_id>
   <g:title>Colete Malha Com Capuz - Branco</g:title>
@@ -1078,7 +1084,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Colete Malha Com Capuz - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLRECZI23O01_17_1</g:id>
 <g:item_group_id>9092174250241 </g:item_group_id>
   <g:title>Malha Com Zíper - Preto</g:title>
@@ -1087,7 +1093,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Com Zíper - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>MLRECBI25O02_18_1</g:id>
 <g:item_group_id>9092174151937 </g:item_group_id>
   <g:title>Malha Manga Longa Gola Aberta - Bege</g:title>
@@ -1096,7 +1102,7 @@
   <g:price>1099.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Malha Manga Longa Gola Aberta - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>MIREEPV24C01_07_1</g:id>
 <g:item_group_id>9092173922561 </g:item_group_id>
   <g:title>Kit Meia Invisível - Marinho</g:title>
@@ -1105,7 +1111,7 @@
   <g:price>139.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Kit Meia Invisível - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI8V23C02_07_1</g:id>
 <g:item_group_id>9092173791489 </g:item_group_id>
   <g:title>Camisa Manga Longa Algodão - Marinho</g:title>
@@ -1114,7 +1120,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Algodão - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>MCSAGVI24U01_202AE_1</g:id>
 <g:item_group_id>9092172677377 </g:item_group_id>
   <g:title>Mocassim Gravata Camurça Solado Borracha - Castanho</g:title>
@@ -1123,7 +1129,7 @@
   <g:price>1299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mocassim Gravata Camurça Solado Borracha - Castanho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C09_07_1</g:id>
 <g:item_group_id>9092172415233 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Marinho</g:title>
@@ -1132,7 +1138,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFCMI23C01_87_1</g:id>
 <g:item_group_id>9092172120321 </g:item_group_id>
   <g:title>Camisa Manga Longa Pima - Cinza Claro</g:title>
@@ -1141,7 +1147,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Pima - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C08_17_1</g:id>
 <g:item_group_id>9092171071745 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Preto</g:title>
@@ -1150,7 +1156,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV26O01_17_1</g:id>
 <g:item_group_id>9092170842369 </g:item_group_id>
   <g:title>Calça Malha Slim Bolso Faca Pesponto Duplo - Preto</g:title>
@@ -1159,7 +1165,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Slim Bolso Faca Pesponto Duplo - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22O01_17_1</g:id>
 <g:item_group_id>9092170809601 </g:item_group_id>
   <g:title>Calça Chino Slim Com Cordão - Preto</g:title>
@@ -1168,7 +1174,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Slim Com Cordão - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U06_69_1</g:id>
 <g:item_group_id>9092170285313 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Botão Lateral - Bordo</g:title>
@@ -1177,7 +1183,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Botão Lateral - Bordo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBTI22U01_17_1</g:id>
 <g:item_group_id>9092170023169 </g:item_group_id>
   <g:title>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Preto</g:title>
@@ -1186,7 +1192,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSLMLI20U01_07_1</g:id>
 <g:item_group_id>9092169859329 </g:item_group_id>
   <g:title>Calça Moletom Com Nervura - Marinho</g:title>
@@ -1195,7 +1201,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Moletom Com Nervura - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O01_01_1</g:id>
 <g:item_group_id>9092168909057 </g:item_group_id>
   <g:title>Camisa Manga Longa Malha Jersey Pima - Branco</g:title>
@@ -1204,7 +1210,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Malha Jersey Pima - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O02_17_1</g:id>
 <g:item_group_id>9092168843521 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha Jersey Pima - Preto</g:title>
@@ -1213,7 +1219,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha Jersey Pima - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>JQSFCZI25U01_17_1</g:id>
 <g:item_group_id>9092168712449 </g:item_group_id>
   <g:title>Jaqueta Gola Alta Com Zíper Embutido - Preto</g:title>
@@ -1222,7 +1228,7 @@
   <g:price>899.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Jaqueta Gola Alta Com Zíper Embutido - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI6I23C09_31_1</g:id>
 <g:item_group_id>9092168581377 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha - Azul Claro</g:title>
@@ -1231,7 +1237,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha - Azul Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFMHI25O02_01_1</g:id>
 <g:item_group_id>9092168220929 </g:item_group_id>
   <g:title>Camisa Manga Curta Malha Jersey Pima - Branco</g:title>
@@ -1240,7 +1246,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Curta Malha Jersey Pima - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22O02_17_1</g:id>
 <g:item_group_id>9092167336193 </g:item_group_id>
   <g:title>Calça Chino Slim Com Bolso Cargo - Preto</g:title>
@@ -1249,7 +1255,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Slim Com Bolso Cargo - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLI23O01_28_1</g:id>
 <g:item_group_id>9092167172353 </g:item_group_id>
   <g:title>Calça Malha Clássica - Cinza</g:title>
@@ -1258,7 +1264,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Clássica - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23U01_L3_1</g:id>
 <g:item_group_id>9092167139585 </g:item_group_id>
   <g:title>Calça Sarja 5 Bolsos Slim - Azul Escuro</g:title>
@@ -1267,7 +1273,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Sarja 5 Bolsos Slim - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23U01_87_1</g:id>
 <g:item_group_id>9092167106817 </g:item_group_id>
   <g:title>Calça Sarja 5 Bolsos Slim - Cinza Claro</g:title>
@@ -1276,7 +1282,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Sarja 5 Bolsos Slim - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBAV24O01_17_1</g:id>
 <g:item_group_id>9092166811905 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Gola v - Preto</g:title>
@@ -1285,7 +1291,7 @@
   <g:price>439.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Gola v - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV26O01_28_1</g:id>
 <g:item_group_id>9092166713601 </g:item_group_id>
   <g:title>Calça Malha Slim Bolso Faca Pesponto Duplo - Cinza</g:title>
@@ -1294,7 +1300,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Slim Bolso Faca Pesponto Duplo - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22U01_17_1</g:id>
 <g:item_group_id>9092166615297 </g:item_group_id>
   <g:title>Calça Chino Moletom - Preto</g:title>
@@ -1303,7 +1309,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Moletom - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLRECHV20O01_11_1</g:id>
 <g:item_group_id>9092166582529 </g:item_group_id>
   <g:title>Calça Chino Clássica - Grafite</g:title>
@@ -1312,7 +1318,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Clássica - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22O01_01_1</g:id>
 <g:item_group_id>9092166516993 </g:item_group_id>
   <g:title>Calça Chino Slim Com Cordão - Branco</g:title>
@@ -1321,7 +1327,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Slim Com Cordão - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVV23U04_01_1</g:id>
 <g:item_group_id>9092166451457 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola v Com Friso - Branco</g:title>
@@ -1330,7 +1336,7 @@
   <g:price>329.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola v Com Friso - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U06_03_1</g:id>
 <g:item_group_id>9092166189313 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Botão Lateral - Azul.</g:title>
@@ -1339,7 +1345,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Botão Lateral - Azul.</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSFI8V23C02_01_1</g:id>
 <g:item_group_id>9092166058241 </g:item_group_id>
   <g:title>Camisa Manga Longa Algodão - Branco</g:title>
@@ -1348,7 +1354,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Algodão - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22U01_18_1</g:id>
 <g:item_group_id>9092164321537 </g:item_group_id>
   <g:title>Calça Chino Moletom - Bege</g:title>
@@ -1357,7 +1363,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Moletom - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFPNI22U01_15_1</g:id>
 <g:item_group_id>9092162846977 </g:item_group_id>
   <g:title>Calça Slim Neoprene - Chumbo</g:title>
@@ -1366,7 +1372,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Neoprene - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV25C01_01_1</g:id>
 <g:item_group_id>9092162814209 </g:item_group_id>
   <g:title>Calça Slim Linho Bolso Faca Com Cordão Interno - Branco</g:title>
@@ -1375,7 +1381,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Linho Bolso Faca Com Cordão Interno - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23U01_17_1</g:id>
 <g:item_group_id>9092162584833 </g:item_group_id>
   <g:title>Calça Sarja 5 Bolsos Slim - Preto</g:title>
@@ -1384,7 +1390,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Sarja 5 Bolsos Slim - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLRECHI21O01_07_1</g:id>
 <g:item_group_id>9092162453761 </g:item_group_id>
   <g:title>Calça Chino Clássica - Marinho</g:title>
@@ -1393,7 +1399,7 @@
   <g:price>549.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Clássica - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV25O02_07_1</g:id>
 <g:item_group_id>9092162224385 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Redonda Retilínea - Marinho</g:title>
@@ -1402,7 +1408,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Redonda Retilínea - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFPNI22U01_17_1</g:id>
 <g:item_group_id>9092161667329 </g:item_group_id>
   <g:title>Calça Slim Neoprene - Preto</g:title>
@@ -1411,7 +1417,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Neoprene - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23O01_28_1</g:id>
 <g:item_group_id>9092161437953 </g:item_group_id>
   <g:title>Calça Malha 5 Bolsos - Cinza</g:title>
@@ -1420,7 +1426,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha 5 Bolsos - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV26O01_07_1</g:id>
 <g:item_group_id>9092161372417 </g:item_group_id>
   <g:title>Calça Malha Slim Bolso Faca Pesponto Duplo - Marinho</g:title>
@@ -1429,7 +1435,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Slim Bolso Faca Pesponto Duplo - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBTI22U01_01_1</g:id>
 <g:item_group_id>9092161077505 </g:item_group_id>
   <g:title>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Branco</g:title>
@@ -1438,7 +1444,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVV23U02_87_1</g:id>
 <g:item_group_id>9092160651521 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola v Botão Lateral - Cinza Claro</g:title>
@@ -1447,7 +1453,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola v Botão Lateral - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI23U02_01_1</g:id>
 <g:item_group_id>9092160422145 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola Redonda - Branco</g:title>
@@ -1456,7 +1462,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola Redonda - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI22U02_07_1</g:id>
 <g:item_group_id>9092159897857 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola Redonda - Marinho</g:title>
@@ -1465,7 +1471,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola Redonda - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFV25C01_01_1</g:id>
 <g:item_group_id>9092159701249 </g:item_group_id>
   <g:title>Bermuda Linho Slim Bolso Faca Com Cordão Interno - Branco</g:title>
@@ -1474,7 +1480,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Linho Slim Bolso Faca Com Cordão Interno - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFCHV24O02_07_1</g:id>
 <g:item_group_id>9092159668481 </g:item_group_id>
   <g:title>Bermuda Chino Slim Bolso Faca Cós 1/2 Elástico - Marinho</g:title>
@@ -1483,7 +1489,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Slim Bolso Faca Cós 1/2 Elástico - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFV25C01_07_1</g:id>
 <g:item_group_id>9092159635713 </g:item_group_id>
   <g:title>Bermuda Linho Slim Bolso Faca Com Cordão Interno - Marinho</g:title>
@@ -1492,7 +1498,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Linho Slim Bolso Faca Com Cordão Interno - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFJBV24C01_17_1</g:id>
 <g:item_group_id>9092159570177 </g:item_group_id>
   <g:title>Calça Jeans Black Slim Com Detalhe Vermelho - Preto</g:title>
@@ -1501,7 +1507,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Jeans Black Slim Com Detalhe Vermelho - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22O01_L3_1</g:id>
 <g:item_group_id>9092159406337 </g:item_group_id>
   <g:title>Calça Chino Slim Com Cordão - Azul Escuro</g:title>
@@ -1510,7 +1516,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Slim Com Cordão - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22O03_01_1</g:id>
 <g:item_group_id>9092159308033 </g:item_group_id>
   <g:title>Calça Chino Slim Com Bolso Cargo - Branco</g:title>
@@ -1519,7 +1525,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Slim Com Bolso Cargo - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVV23U07_03_1</g:id>
 <g:item_group_id>9092159078657 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola v - Azul.</g:title>
@@ -1528,7 +1534,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola v - Azul.</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPI23U03_15_1</g:id>
 <g:item_group_id>9092158980353 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Portuguesa - Chumbo</g:title>
@@ -1537,7 +1543,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Portuguesa - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV23C01_17_1</g:id>
 <g:item_group_id>9092158947585 </g:item_group_id>
   <g:title>Calça Bolso Faca Super Slim - Preto</g:title>
@@ -1546,7 +1552,7 @@
   <g:price>999.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Bolso Faca Super Slim - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI23O02_87_1</g:id>
 <g:item_group_id>9092158783745 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Redonda Modal - Cinza Claro</g:title>
@@ -1555,7 +1561,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Redonda Modal - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPV23U02_07_1</g:id>
 <g:item_group_id>9092158718209 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Portuguesa Retilínea - Marinho</g:title>
@@ -1564,7 +1570,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Portuguesa Retilínea - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV24U01_87_1</g:id>
 <g:item_group_id>9092158587137 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Redonda - Cinza Claro</g:title>
@@ -1573,7 +1579,7 @@
   <g:price>249.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Redonda - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O03_07_1</g:id>
 <g:item_group_id>9092158259457 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Sanforizada - Marinho</g:title>
@@ -1582,7 +1588,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Sanforizada - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI23U02_44_1</g:id>
 <g:item_group_id>9092158161153 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola Redonda - Off White</g:title>
@@ -1591,7 +1597,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola Redonda - Off White</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U05_17_1</g:id>
 <g:item_group_id>9092158095617 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Faixa Manga - Preto</g:title>
@@ -1600,7 +1606,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Faixa Manga - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPV23U02_01_1</g:id>
 <g:item_group_id>9092158030081 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Portuguesa Retilínea - Branco</g:title>
@@ -1609,7 +1615,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Portuguesa Retilínea - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSLMLI20U01_17_1</g:id>
 <g:item_group_id>9092157571329 </g:item_group_id>
   <g:title>Calça Moletom Com Nervura - Preto</g:title>
@@ -1618,7 +1624,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Moletom Com Nervura - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22O01_11_1</g:id>
 <g:item_group_id>9092157341953 </g:item_group_id>
   <g:title>Calça Chino Slim Com Cordão - Grafite</g:title>
@@ -1627,7 +1633,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Slim Com Cordão - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV25C01_18_1</g:id>
 <g:item_group_id>9092157276417 </g:item_group_id>
   <g:title>Calça Slim Linho Bolso Faca Com Cordão Interno - Bege</g:title>
@@ -1636,7 +1642,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Linho Bolso Faca Com Cordão Interno - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLI23O01_17_1</g:id>
 <g:item_group_id>9092157210881 </g:item_group_id>
   <g:title>Calça Malha Clássica - Preto</g:title>
@@ -1645,7 +1651,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Clássica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFCHI22U01_07_1</g:id>
 <g:item_group_id>9092157178113 </g:item_group_id>
   <g:title>Calça Chino Moletom - Marinho</g:title>
@@ -1654,7 +1660,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Moletom - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVV23U07_69_1</g:id>
 <g:item_group_id>9092157079809 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola v - Bordo</g:title>
@@ -1663,7 +1669,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola v - Bordo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBZV20U01_17_1</g:id>
 <g:item_group_id>9092156915969 </g:item_group_id>
   <g:title>Calça Slim Com Faixa Lateral - Preto</g:title>
@@ -1672,7 +1678,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Com Faixa Lateral - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBAV21O03_17_1</g:id>
 <g:item_group_id>9092156784897 </g:item_group_id>
   <g:title>Camiseta Manga Curta Pima Gola v - Preto</g:title>
@@ -1681,7 +1687,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Pima Gola v - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLRECHI21O01_18_1</g:id>
 <g:item_group_id>9092156326145 </g:item_group_id>
   <g:title>Calça Chino Clássica - Bege</g:title>
@@ -1690,7 +1696,7 @@
   <g:price>549.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Clássica - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U02_69_1</g:id>
 <g:item_group_id>9092156293377 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Redonda - Bordo</g:title>
@@ -1699,7 +1705,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Redonda - Bordo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFFSV23U01_17_1</g:id>
 <g:item_group_id>9092155867393 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Redonda - Preto</g:title>
@@ -1708,7 +1714,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Redonda - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O02_07_1</g:id>
 <g:item_group_id>9092155801857 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pique Friso Duplo - Marinho</g:title>
@@ -1717,7 +1723,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pique Friso Duplo - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI23U02_11_1</g:id>
 <g:item_group_id>9092155736321 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola Redonda - Grafite</g:title>
@@ -1726,7 +1732,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola Redonda - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPI23U01_31_1</g:id>
 <g:item_group_id>9092155670785 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Portuguesa - Azul Claro</g:title>
@@ -1735,7 +1741,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Portuguesa - Azul Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CMSF90V23C04_28_1</g:id>
 <g:item_group_id>9092155474177 </g:item_group_id>
   <g:title>Camisa Manga Longa Algodão - Cinza</g:title>
@@ -1744,7 +1750,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Manga Longa Algodão - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLREBGI22O01_18_1</g:id>
 <g:item_group_id>9092154917121 </g:item_group_id>
   <g:title>Calca Chino Moletom Sem Cordao - Bege</g:title>
@@ -1753,7 +1759,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calca Chino Moletom Sem Cordao - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVI22U01_07_1</g:id>
 <g:item_group_id>9092154884353 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola v Corte a Fio - Marinho</g:title>
@@ -1762,7 +1768,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola v Corte a Fio - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBZV20U01_07_1</g:id>
 <g:item_group_id>9092154851585 </g:item_group_id>
   <g:title>Calça Slim Com Faixa Lateral - Marinho</g:title>
@@ -1771,7 +1777,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Com Faixa Lateral - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV26O01_11_1</g:id>
 <g:item_group_id>9092154818817 </g:item_group_id>
   <g:title>Calça Malha Slim Bolso Faca Pesponto Duplo - Grafite</g:title>
@@ -1780,7 +1786,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Slim Bolso Faca Pesponto Duplo - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U02_07_1</g:id>
 <g:item_group_id>9092154786049 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Redonda - Marinho</g:title>
@@ -1789,7 +1795,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Redonda - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLV25C01_07_1</g:id>
 <g:item_group_id>9092154753281 </g:item_group_id>
   <g:title>Calça Slim Linho Bolso Faca Com Cordão Interno - Marinho</g:title>
@@ -1798,7 +1804,7 @@
   <g:price>799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Slim Linho Bolso Faca Com Cordão Interno - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O03_L3_1</g:id>
 <g:item_group_id>9092154720513 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Sanforizada - Azul Escuro</g:title>
@@ -1807,7 +1813,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Sanforizada - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23U01_12_1</g:id>
 <g:item_group_id>9092154589441 </g:item_group_id>
   <g:title>Calça Sarja 5 Bolsos Slim - Areia</g:title>
@@ -1816,7 +1822,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Sarja 5 Bolsos Slim - Areia</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLRECHV20O01_12108_1</g:id>
 <g:item_group_id>9092154491137 </g:item_group_id>
   <g:title>Calça Chino Clássica - Caqui</g:title>
@@ -1825,7 +1831,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Clássica - Caqui</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23O01_07_1</g:id>
 <g:item_group_id>9092154261761 </g:item_group_id>
   <g:title>Calça Malha 5 Bolsos - Marinho</g:title>
@@ -1834,7 +1840,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha 5 Bolsos - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFRCV23O01_01_1</g:id>
 <g:item_group_id>9092154196225 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Recorte Frontal - Branco</g:title>
@@ -1843,7 +1849,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Recorte Frontal - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPV24U01_34_1</g:id>
 <g:item_group_id>9092153803009 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Portuguesa - Azul Medio</g:title>
@@ -1852,7 +1858,7 @@
   <g:price>249.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Portuguesa - Azul Medio</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBTI22U01_1002_1</g:id>
 <g:item_group_id>9092153770241 </g:item_group_id>
   <g:title>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Cinza Escuro</g:title>
@@ -1861,7 +1867,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Cinza Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFMLV24O01_07_1</g:id>
 <g:item_group_id>9092153737473 </g:item_group_id>
   <g:title>Bermuda Slim Moletom 5 Bolsos - Marinho</g:title>
@@ -1870,7 +1876,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Slim Moletom 5 Bolsos - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFMLV24O01_87_1</g:id>
 <g:item_group_id>9092153671937 </g:item_group_id>
   <g:title>Bermuda Slim Moletom 5 Bolsos - Cinza Claro</g:title>
@@ -1879,7 +1885,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Slim Moletom 5 Bolsos - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBAV21O02_50_1</g:id>
 <g:item_group_id>9092153311489 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Gola v Logo - Carbono</g:title>
@@ -1888,7 +1894,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Gola v Logo - Carbono</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23O03_13_1</g:id>
 <g:item_group_id>9092153245953 </g:item_group_id>
   <g:title>Calça Jeans Clássica - Indigo</g:title>
@@ -1897,7 +1903,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Jeans Clássica - Indigo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O02_01_1</g:id>
 <g:item_group_id>9092152918273 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pique Friso Duplo - Branco</g:title>
@@ -1906,7 +1912,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pique Friso Duplo - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV24U01_15_1</g:id>
 <g:item_group_id>9092152885505 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Redonda - Chumbo</g:title>
@@ -1915,7 +1921,7 @@
   <g:price>249.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Redonda - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLI23O01_11_1</g:id>
 <g:item_group_id>9092152525057 </g:item_group_id>
   <g:title>Calça Malha Clássica - Grafite</g:title>
@@ -1924,7 +1930,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Clássica - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23O01_17157_1</g:id>
 <g:item_group_id>9092152492289 </g:item_group_id>
   <g:title>Calça Malha 5 Bolsos - Preto</g:title>
@@ -1933,7 +1939,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha 5 Bolsos - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI23O01_11_1</g:id>
 <g:item_group_id>9092152393985 </g:item_group_id>
   <g:title>Calça Malha 5 Bolsos - Grafite</g:title>
@@ -1942,7 +1948,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha 5 Bolsos - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLRECHV20O01_17_1</g:id>
 <g:item_group_id>9092152361217 </g:item_group_id>
   <g:title>Calça Chino Clássica - Preto</g:title>
@@ -1951,7 +1957,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Clássica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLRECHI21O01_17_1</g:id>
 <g:item_group_id>9092152328449 </g:item_group_id>
   <g:title>Calça Chino Clássica - Preto</g:title>
@@ -1960,7 +1966,7 @@
   <g:price>549.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Chino Clássica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV25O02_17_1</g:id>
 <g:item_group_id>9092152262913 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Redonda Retilínea - Preto</g:title>
@@ -1969,7 +1975,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Redonda Retilínea - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBTI22U01_07_1</g:id>
 <g:item_group_id>9092152066305 </g:item_group_id>
   <g:title>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Marinho</g:title>
@@ -1978,7 +1984,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Slim Gola Portuguesa 5 Botões - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFMRV23O01_03_1</g:id>
 <g:item_group_id>9092152033537 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Raglan - Azul.</g:title>
@@ -1987,7 +1993,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Raglan - Azul.</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVI22U01_1002_1</g:id>
 <g:item_group_id>9092151968001 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola v Corte a Fio - Cinza Escuro</g:title>
@@ -1996,7 +2002,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola v Corte a Fio - Cinza Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV25O02_15_1</g:id>
 <g:item_group_id>9092151902465 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Redonda Retilínea - Chumbo</g:title>
@@ -2005,7 +2011,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Redonda Retilínea - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFNVI21U01_17_1</g:id>
 <g:item_group_id>9092151640321 </g:item_group_id>
   <g:title>Bermuda Neoprene Com Nervuras - Preto</g:title>
@@ -2014,7 +2020,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Neoprene Com Nervuras - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BUREMZI22U03_44_1</g:id>
 <g:item_group_id>9092151574785 </g:item_group_id>
   <g:title>Blusão Neoprene Com Capuz - Off White</g:title>
@@ -2023,7 +2029,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Blusão Neoprene Com Capuz - Off White</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFFSV23U01_15_1</g:id>
 <g:item_group_id>9092150821121 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Redonda - Chumbo</g:title>
@@ -2032,7 +2038,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Redonda - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVV23U02_69_1</g:id>
 <g:item_group_id>9092150624513 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola v Botão Lateral - Bordo</g:title>
@@ -2041,7 +2047,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola v Botão Lateral - Bordo</g:description>
-</produto><produto>
+</item><item>
   <g:id>BUREMZI22U03_17_1</g:id>
 <g:item_group_id>9092150427905 </g:item_group_id>
   <g:title>Blusão Neoprene Com Capuz - Preto</g:title>
@@ -2050,7 +2056,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Blusão Neoprene Com Capuz - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPV23U02_69_1</g:id>
 <g:item_group_id>9092150362369 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola Portuguesa Retilínea - Bordo</g:title>
@@ -2059,7 +2065,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola Portuguesa Retilínea - Bordo</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFV25C01_18_1</g:id>
 <g:item_group_id>9092150198529 </g:item_group_id>
   <g:title>Bermuda Linho Slim Bolso Faca Com Cordão Interno - Bege</g:title>
@@ -2068,7 +2074,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Linho Slim Bolso Faca Com Cordão Interno - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O04_28_1</g:id>
 <g:item_group_id>9092150165761 </g:item_group_id>
   <g:title>Bermuda Chino Com Cordão - Cinza</g:title>
@@ -2077,7 +2083,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Com Cordão - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O02_L3_1</g:id>
 <g:item_group_id>9092150100225 </g:item_group_id>
   <g:title>Bermuda Chino Com Ajuste - Azul Escuro</g:title>
@@ -2086,7 +2092,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Com Ajuste - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLIMCI22O07_17_1</g:id>
 <g:item_group_id>9092149805313 </g:item_group_id>
   <g:title>Mochila Zíper Frontal - Preto</g:title>
@@ -2095,7 +2101,7 @@
   <g:price>1399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mochila Zíper Frontal - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI22U02_17_1</g:id>
 <g:item_group_id>9092149543169 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Slim Gola Redonda - Preto</g:title>
@@ -2104,7 +2110,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Slim Gola Redonda - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFBAV24O01_01_1</g:id>
 <g:item_group_id>9092149510401 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Gola v - Branco</g:title>
@@ -2113,7 +2119,7 @@
   <g:price>439.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Gola v - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLI23O02_07_1</g:id>
 <g:item_group_id>9092149477633 </g:item_group_id>
   <g:title>Calça Malha Clássica - Marinho</g:title>
@@ -2122,7 +2128,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Clássica - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSFBLI23O01_07_1</g:id>
 <g:item_group_id>9092149346561 </g:item_group_id>
   <g:title>Calça Malha Clássica - Marinho</g:title>
@@ -2131,7 +2137,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Malha Clássica - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFMRV23O01_87_1</g:id>
 <g:item_group_id>9092149313793 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Raglan - Cinza Claro</g:title>
@@ -2140,7 +2146,7 @@
   <g:price>299.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Raglan - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLSF5BI24O01_07_1</g:id>
 <g:item_group_id>9092149281025 </g:item_group_id>
   <g:title>Calça Jeans Slim Com Zíper 5 Bolsos - Marinho</g:title>
@@ -2149,7 +2155,7 @@
   <g:price>499.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calça Jeans Slim Com Zíper 5 Bolsos - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLREBGI22O01_07_1</g:id>
 <g:item_group_id>9092149248257 </g:item_group_id>
   <g:title>Calca Chino Moletom Sem Cordao - Marinho</g:title>
@@ -2158,7 +2164,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calca Chino Moletom Sem Cordao - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CLREBGI22O01_17_1</g:id>
 <g:item_group_id>9092149182721 </g:item_group_id>
   <g:title>Calca Chino Moletom Sem Cordao - Preto</g:title>
@@ -2167,7 +2173,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Calca Chino Moletom Sem Cordao - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U05_01_1</g:id>
 <g:item_group_id>9092148756737 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Faixa Manga - Branco</g:title>
@@ -2176,7 +2182,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Faixa Manga - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U05_07_1</g:id>
 <g:item_group_id>9092148691201 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Faixa Manga - Marinho</g:title>
@@ -2185,7 +2191,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Faixa Manga - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O03_17_1</g:id>
 <g:item_group_id>9092148658433 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Sanforizada - Preto</g:title>
@@ -2194,7 +2200,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Sanforizada - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFMLV24O01_12_1</g:id>
 <g:item_group_id>9092148592897 </g:item_group_id>
   <g:title>Bermuda Slim Moletom 5 Bolsos - Areia</g:title>
@@ -2203,7 +2209,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Slim Moletom 5 Bolsos - Areia</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFNVI21U01_08_1</g:id>
 <g:item_group_id>9092148560129 </g:item_group_id>
   <g:title>Bermuda Neoprene Com Nervuras - Cru</g:title>
@@ -2212,7 +2218,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Neoprene Com Nervuras - Cru</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O02_28_1</g:id>
 <g:item_group_id>9092148461825 </g:item_group_id>
   <g:title>Bermuda Chino Com Ajuste - Cinza</g:title>
@@ -2221,7 +2227,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Com Ajuste - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGPI23U01_15_1</g:id>
 <g:item_group_id>9092148396289 </g:item_group_id>
   <g:title>Camiseta Manga Longa Gola Portuguesa - Chumbo</g:title>
@@ -2230,7 +2236,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Longa Gola Portuguesa - Chumbo</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGVV24U01_87_1</g:id>
 <g:item_group_id>9092148330753 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Gola v Corte a Fio - Cinza Claro</g:title>
@@ -2239,7 +2245,7 @@
   <g:price>249.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Gola v Corte a Fio - Cinza Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLIMCI22O04_16_1</g:id>
 <g:item_group_id>9092147773697 </g:item_group_id>
   <g:title>Mochila Bolso Retangular - Marrom</g:title>
@@ -2248,7 +2254,7 @@
   <g:price>1799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mochila Bolso Retangular - Marrom</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O02_17_1</g:id>
 <g:item_group_id>9092147478785 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pique Friso Duplo - Preto</g:title>
@@ -2257,7 +2263,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pique Friso Duplo - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U02_03_1</g:id>
 <g:item_group_id>9092147020033 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Redonda - Azul.</g:title>
@@ -2266,7 +2272,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Redonda - Azul.</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRV23U02_01_1</g:id>
 <g:item_group_id>9092146987265 </g:item_group_id>
   <g:title>Camiseta Manga Curta Gola Redonda - Branco</g:title>
@@ -2275,7 +2281,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Gola Redonda - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>CESFGRI25O03_89_1</g:id>
 <g:item_group_id>9092146954497 </g:item_group_id>
   <g:title>Camiseta Manga Curta Slim Pima Sanforizada - Cinza Médio</g:title>
@@ -2284,7 +2290,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Manga Curta Slim Pima Sanforizada - Cinza Médio</g:description>
-</produto><produto>
+</item><item>
   <g:id>CAREBXV20O01_17_1</g:id>
 <g:item_group_id>9092146692353 </g:item_group_id>
   <g:title>Kit Cueca Boxer 2 Peças - Preto</g:title>
@@ -2293,7 +2299,7 @@
   <g:price>119.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Kit Cueca Boxer 2 Peças - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFCHV24O02_17_1</g:id>
 <g:item_group_id>9092146462977 </g:item_group_id>
   <g:title>Bermuda Chino Slim Bolso Faca Cós 1/2 Elástico - Preto</g:title>
@@ -2302,7 +2308,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Slim Bolso Faca Cós 1/2 Elástico - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFCHV24O02_12_1</g:id>
 <g:item_group_id>9092146430209 </g:item_group_id>
   <g:title>Bermuda Chino Slim Bolso Faca Cós 1/2 Elástico - Areia</g:title>
@@ -2311,7 +2317,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Slim Bolso Faca Cós 1/2 Elástico - Areia</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRELNV20O01_01_1</g:id>
 <g:item_group_id>9092146200833 </g:item_group_id>
   <g:title>Bermuda Linho - Branca</g:title>
@@ -2320,7 +2326,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Linho - Branca</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFI23C01_11_1</g:id>
 <g:item_group_id>9092146135297 </g:item_group_id>
   <g:title>Bermuda Com Passante Retro - Grafite</g:title>
@@ -2329,7 +2335,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Com Passante Retro - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O02_01_1</g:id>
 <g:item_group_id>9092146036993 </g:item_group_id>
   <g:title>Bermuda Chino Com Ajuste - Branco</g:title>
@@ -2338,7 +2344,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Com Ajuste - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRELNV20O01_12108_1</g:id>
 <g:item_group_id>9092145873153 </g:item_group_id>
   <g:title>Bermuda Linho - Khaki</g:title>
@@ -2347,7 +2353,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Linho - Khaki</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O02_06_1</g:id>
 <g:item_group_id>9092145840385 </g:item_group_id>
   <g:title>Bermuda Chino Com Ajuste - Khaki</g:title>
@@ -2356,7 +2362,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Com Ajuste - Khaki</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICTV19C02_16_1</g:id>
 <g:item_group_id>9092145676545 </g:item_group_id>
   <g:title>Carteira de Couro - Marrom</g:title>
@@ -2365,7 +2371,7 @@
   <g:price>249.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Carteira de Couro - Marrom</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLIMCI22O06_16_1</g:id>
 <g:item_group_id>9092145578241 </g:item_group_id>
   <g:title>Mochila Couro 2 Bolsos - Marrom</g:title>
@@ -2374,7 +2380,7 @@
   <g:price>1399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mochila Couro 2 Bolsos - Marrom</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICTV19C02_17_1</g:id>
 <g:item_group_id>9092145381633 </g:item_group_id>
   <g:title>Carteira de Couro - Preto</g:title>
@@ -2383,7 +2389,7 @@
   <g:price>249.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Carteira de Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C02_17_2</g:id>
 <g:item_group_id>9092145316097 </g:item_group_id>
   <g:title>Cinto de Couro - Preto</g:title>
@@ -2392,7 +2398,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFCHV24O01_18_1</g:id>
 <g:item_group_id>9092145119489 </g:item_group_id>
   <g:title>Bermuda Chino Slim Com Bolso Relógio - Bege</g:title>
@@ -2401,7 +2407,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Slim Com Bolso Relógio - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C06_17_2</g:id>
 <g:item_group_id>9092145086721 </g:item_group_id>
   <g:title>Cinto de Couro - Preto</g:title>
@@ -2410,7 +2416,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C05_1055_2</g:id>
 <g:item_group_id>9092144824577 </g:item_group_id>
   <g:title>Cinto de Couro - Cafe</g:title>
@@ -2419,7 +2425,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRELNV20O01_07_1</g:id>
 <g:item_group_id>9092144726273 </g:item_group_id>
   <g:title>Bermuda Linho - Marinho</g:title>
@@ -2428,7 +2434,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Linho - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHV20O01_17_1</g:id>
 <g:item_group_id>9092144627969 </g:item_group_id>
   <g:title>Bermuda Chino Clássica - Preto</g:title>
@@ -2437,7 +2443,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Clássica - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHV20O01_07_1</g:id>
 <g:item_group_id>9092144562433 </g:item_group_id>
   <g:title>Bermuda Chino Clássica - Marinho</g:title>
@@ -2446,7 +2452,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Clássica - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFCHV24O01_01_1</g:id>
 <g:item_group_id>9092144333057 </g:item_group_id>
   <g:title>Bermuda Chino Slim Com Bolso Relógio - Branco</g:title>
@@ -2455,7 +2461,7 @@
   <g:price>599.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Chino Slim Com Bolso Relógio - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFI23C01_07_1</g:id>
 <g:item_group_id>9092144267521 </g:item_group_id>
   <g:title>Bermuda Com Passante Retro - Marinho</g:title>
@@ -2464,7 +2470,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Com Passante Retro - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O03_L3_1</g:id>
 <g:item_group_id>9092144070913 </g:item_group_id>
   <g:title>Bermuda Cargo Com Cordão - Azul Escuro</g:title>
@@ -2473,7 +2479,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Cargo Com Cordão - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFI23C01_18_1</g:id>
 <g:item_group_id>9092143972609 </g:item_group_id>
   <g:title>Bermuda Com Passante Retro - Bege</g:title>
@@ -2482,7 +2488,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Com Passante Retro - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMSFBFI23C01_28_1</g:id>
 <g:item_group_id>9092143939841 </g:item_group_id>
   <g:title>Bermuda Com Passante Retro - Cinza</g:title>
@@ -2491,7 +2497,7 @@
   <g:price>459.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Com Passante Retro - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLIMCI22O05_17_1</g:id>
 <g:item_group_id>9092143644929 </g:item_group_id>
   <g:title>Mochila Bolso Retangular - Preto</g:title>
@@ -2500,7 +2506,7 @@
   <g:price>1799.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mochila Bolso Retangular - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BMRECHI22O03_06_1</g:id>
 <g:item_group_id>9092143513857 </g:item_group_id>
   <g:title>Bermuda Cargo Com Cordão - Khaki</g:title>
@@ -2509,7 +2515,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bermuda Cargo Com Cordão - Khaki</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C04_1055_2</g:id>
 <g:item_group_id>9092143153409 </g:item_group_id>
   <g:title>Cinto de Couro - Cafe</g:title>
@@ -2518,7 +2524,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C02_1055_2</g:id>
 <g:item_group_id>9092143087873 </g:item_group_id>
   <g:title>Cinto de Couro - Cafe</g:title>
@@ -2527,7 +2533,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C06_1055_2</g:id>
 <g:item_group_id>9092143055105 </g:item_group_id>
   <g:title>Cinto de Couro - Cafe</g:title>
@@ -2536,7 +2542,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C04_17_2</g:id>
 <g:item_group_id>9092142891265 </g:item_group_id>
   <g:title>Cinto de Couro - Preto</g:title>
@@ -2545,7 +2551,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C01_17_2</g:id>
 <g:item_group_id>9092142858497 </g:item_group_id>
   <g:title>Cinto de Couro - Preto</g:title>
@@ -2554,7 +2560,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACLICNI22C01_1055_2</g:id>
 <g:item_group_id>9092142792961 </g:item_group_id>
   <g:title>Cinto de Couro - Cafe</g:title>
@@ -2563,7 +2569,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Cinto de Couro - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>TCREGCA23028_07_1</g:id>
 <g:item_group_id>9086825627905 </g:item_group_id>
   <g:title>Camiseta Pima Gola Careca - Marinho</g:title>
@@ -2572,7 +2578,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camiseta Pima Gola Careca - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>SUREESA23001_01_1</g:id>
 <g:item_group_id>9086823235841 </g:item_group_id>
   <g:title>Suspensório Fantasia - Branco</g:title>
@@ -2581,7 +2587,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Suspensório Fantasia - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>PN.99.0002_16_1</g:id>
 <g:item_group_id>9086821761281 </g:item_group_id>
   <g:title>Porta Notas Couro - Marrom</g:title>
@@ -2590,7 +2596,7 @@
   <g:price>269.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Porta Notas Couro - Marrom</g:description>
-</produto><produto>
+</item><item>
   <g:id>PN.99.0002_17_1</g:id>
 <g:item_group_id>9086816846081 </g:item_group_id>
   <g:title>Porta Notas Couro - Preto</g:title>
@@ -2599,7 +2605,7 @@
   <g:price>269.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Porta Notas Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>NCCZLNA22001_07_1</g:id>
 <g:item_group_id>9086815568129 </g:item_group_id>
   <g:title>Necessaire Pendurar Lona/ Nylon 2 Zíperes - Marinho</g:title>
@@ -2608,7 +2614,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Necessaire Pendurar Lona/ Nylon 2 Zíperes - Marinho</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_888_1</g:id>
 <g:item_group_id>9086815404289 </g:item_group_id>
   <g:title>Meia Social De Algodão - Mescla Cru</g:title>
@@ -2617,7 +2623,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Mescla Cru</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_17_1</g:id>
 <g:item_group_id>9086815109377 </g:item_group_id>
   <g:title>Meia Social De Algodão - Preto</g:title>
@@ -2626,7 +2632,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_06_1</g:id>
 <g:item_group_id>9086815043841 </g:item_group_id>
   <g:title>Meia Social De Algodão - Khaki</g:title>
@@ -2635,7 +2641,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Khaki</g:description>
-</produto><produto>
+</item><item>
   <g:id>NCCZLNA22001_06_1</g:id>
 <g:item_group_id>9086812651777 </g:item_group_id>
   <g:title>Necessaire Pendurar Lona/ Nylon 2 Zíperes - Khaki</g:title>
@@ -2644,7 +2650,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Necessaire Pendurar Lona/ Nylon 2 Zíperes - Khaki</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_36_1</g:id>
 <g:item_group_id>9086811799809 </g:item_group_id>
   <g:title>Meia Social De Algodão - Mescla Claro</g:title>
@@ -2653,7 +2659,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Mescla Claro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_11_1</g:id>
 <g:item_group_id>9086811734273 </g:item_group_id>
   <g:title>Meia Social De Algodão - Grafite</g:title>
@@ -2662,7 +2668,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Grafite</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_L3_1</g:id>
 <g:item_group_id>9086811603201 </g:item_group_id>
   <g:title>Meia Social De Algodão - Azul Escuro</g:title>
@@ -2671,7 +2677,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Azul Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_1045_1</g:id>
 <g:item_group_id>9086811570433 </g:item_group_id>
   <g:title>Meia Social De Algodão - Marinho Noite</g:title>
@@ -2680,7 +2686,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Marinho Noite</g:description>
-</produto><produto>
+</item><item>
   <g:id>NCNYPNA21001_17_1</g:id>
 <g:item_group_id>9086810194177 </g:item_group_id>
   <g:title>Necessaire Nylon De Pendurar - Preto</g:title>
@@ -2689,7 +2695,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Necessaire Nylon De Pendurar - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_1064_1</g:id>
 <g:item_group_id>9086808588545 </g:item_group_id>
   <g:title>Meia Social De Algodão - Marrom Escuro</g:title>
@@ -2698,7 +2704,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Marrom Escuro</g:description>
-</produto><produto>
+</item><item>
   <g:id>NCNYZPA21001_17_1</g:id>
 <g:item_group_id>9086807900417 </g:item_group_id>
   <g:title>Necessaire Nylon Com 2 Zíperes - Preto</g:title>
@@ -2707,7 +2713,7 @@
   <g:price>399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Necessaire Nylon Com 2 Zíperes - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_1055_1</g:id>
 <g:item_group_id>9086807605505 </g:item_group_id>
   <g:title>Meia Social De Algodão - Cafe</g:title>
@@ -2716,7 +2722,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>MI.02.0002_12112_1</g:id>
 <g:item_group_id>9086807441665 </g:item_group_id>
   <g:title>Meia Social De Algodão - Perola</g:title>
@@ -2725,7 +2731,7 @@
   <g:price>59.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Meia Social De Algodão - Perola</g:description>
-</produto><produto>
+</item><item>
   <g:id>CCRECBA23001_01_1</g:id>
 <g:item_group_id>9086799937793 </g:item_group_id>
   <g:title>Camisa Regular Manga Curta - Branco</g:title>
@@ -2734,7 +2740,7 @@
   <g:price>699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Camisa Regular Manga Curta - Branco</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA23005_1055_1</g:id>
 <g:item_group_id>9086798594305 </g:item_group_id>
   <g:title>Bolsa Carteiro Couro Com 2 Bolsos Aba Lisa - Cafe</g:title>
@@ -2743,7 +2749,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bolsa Carteiro Couro Com 2 Bolsos Aba Lisa - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACSCCTA22006_17_1</g:id>
 <g:item_group_id>9086798037249 </g:item_group_id>
   <g:title>Carteira Com Porta Cartão Vitral - Preto</g:title>
@@ -2752,7 +2758,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Carteira Com Porta Cartão Vitral - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA23003_1055_1</g:id>
 <g:item_group_id>9086797807873 </g:item_group_id>
   <g:title>Bolsa Carteiro Aba Lisa Couro - Cafe</g:title>
@@ -2761,7 +2767,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bolsa Carteiro Aba Lisa Couro - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA23005_17_1</g:id>
 <g:item_group_id>9086796300545 </g:item_group_id>
   <g:title>Bolsa Carteiro Couro Com 2 Bolsos Aba Lisa - Preto</g:title>
@@ -2770,7 +2776,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bolsa Carteiro Couro Com 2 Bolsos Aba Lisa - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA24001_17_1</g:id>
 <g:item_group_id>9086795907329 </g:item_group_id>
   <g:title>Pasta Carteiro Com Vinco Na Frente - Preto</g:title>
@@ -2779,7 +2785,7 @@
   <g:price>1699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Pasta Carteiro Com Vinco Na Frente - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA23004_1055_1</g:id>
 <g:item_group_id>9086795645185 </g:item_group_id>
   <g:title>Bolsa Carteiro Couro Aba Lisa Com Zíper - Cafe</g:title>
@@ -2788,7 +2794,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bolsa Carteiro Couro Aba Lisa Com Zíper - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACSCCTA22006_1055_1</g:id>
 <g:item_group_id>9086795186433 </g:item_group_id>
   <g:title>Carteira Com Porta Cartão Vitral - Cafe</g:title>
@@ -2797,7 +2803,7 @@
   <g:price>359.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Carteira Com Porta Cartão Vitral - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA24001_1055_1</g:id>
 <g:item_group_id>9086795120897 </g:item_group_id>
   <g:title>Pasta Carteiro Com Vinco Na Frente - Cafe</g:title>
@@ -2806,7 +2812,7 @@
   <g:price>1699.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Pasta Carteiro Com Vinco Na Frente - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA23004_17_1</g:id>
 <g:item_group_id>9086795022593 </g:item_group_id>
   <g:title>Bolsa Carteiro Couro Aba Lisa Com Zíper - Preto</g:title>
@@ -2815,7 +2821,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bolsa Carteiro Couro Aba Lisa Com Zíper - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>AC.08.0005_28_1</g:id>
 <g:item_group_id>9086793974017 </g:item_group_id>
   <g:title>Lenço Liso - Cinza</g:title>
@@ -2824,7 +2830,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Lenço Liso - Cinza</g:description>
-</produto><produto>
+</item><item>
   <g:id>AC.08.0005_66_1</g:id>
 <g:item_group_id>9086793646337 </g:item_group_id>
   <g:title>Lenço Liso - Prata</g:title>
@@ -2833,7 +2839,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Lenço Liso - Prata</g:description>
-</produto><produto>
+</item><item>
   <g:id>AC.08.0005_03_1</g:id>
 <g:item_group_id>9086793154817 </g:item_group_id>
   <g:title>Lenço Liso - Azul.</g:title>
@@ -2842,7 +2848,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Lenço Liso - Azul.</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACSCCTA25001_1055_1</g:id>
 <g:item_group_id>9086791778561 </g:item_group_id>
   <g:title>Porta Cartão Couro Floater - Cafe</g:title>
@@ -2851,7 +2857,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Porta Cartão Couro Floater - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRCTA23003_17_1</g:id>
 <g:item_group_id>9086791713025 </g:item_group_id>
   <g:title>Bolsa Carteiro Aba Lisa Couro - Preto</g:title>
@@ -2860,7 +2866,7 @@
   <g:price>1199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Bolsa Carteiro Aba Lisa Couro - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRMOA23002_17_1</g:id>
 <g:item_group_id>9086791221505 </g:item_group_id>
   <g:title>Mochila Couro Com Bolso Frontal Com Zíper - Preto</g:title>
@@ -2869,7 +2875,7 @@
   <g:price>1399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mochila Couro Com Bolso Frontal Com Zíper - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>ACSCCTA25001_17_1</g:id>
 <g:item_group_id>9086791188737 </g:item_group_id>
   <g:title>Porta Cartão Couro Floater - Preto</g:title>
@@ -2878,7 +2884,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Porta Cartão Couro Floater - Preto</g:description>
-</produto><produto>
+</item><item>
   <g:id>BLCRMOA23002_1055_1</g:id>
 <g:item_group_id>9086791155969 </g:item_group_id>
   <g:title>Mochila Couro Com Bolso Frontal Com Zíper - Cafe</g:title>
@@ -2887,7 +2893,7 @@
   <g:price>1399.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Mochila Couro Com Bolso Frontal Com Zíper - Cafe</g:description>
-</produto><produto>
+</item><item>
   <g:id>AC.08.0005_18_1</g:id>
 <g:item_group_id>9086791024897 </g:item_group_id>
   <g:title>Lenço Liso - Bege</g:title>
@@ -2896,7 +2902,7 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Lenço Liso - Bege</g:description>
-</produto><produto>
+</item><item>
   <g:id>AC.08.0005_01_1</g:id>
 <g:item_group_id>9086790959361 </g:item_group_id>
   <g:title>Lenço Liso - Branco</g:title>
@@ -2905,4 +2911,6 @@
   <g:price>199.90</g:price>
 <g:availability>in_stock</g:availability>
 <g:description>Lenço Liso - Branco</g:description>
-</produto></produtos>
+</item>
+</channel>
+</rss>
